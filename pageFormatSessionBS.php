@@ -64,6 +64,7 @@ EOT;
            
              echo<<<EOT
                    <a class="nav-item nav-link" href="./signup.php">Signup</a>
+                   <a class="nav-item nav-link" href="./about.php">About</a>
               
               
             </nav>

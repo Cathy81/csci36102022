@@ -32,8 +32,8 @@
          <img  src="./images/logo1.jfif" alt="store" >
       
   
-_END;   
-  ?>
+_END;
+?>
   <hr>   
        <h3>Our Company</h3>
       <a class="nav-item nav-link" href="#">About Papa John's</a>
